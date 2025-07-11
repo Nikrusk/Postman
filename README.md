@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hgx8dwc0uik53o23/branch/main?svg=true)](https://ci.appveyor.com/project/Nikrusk/api/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/o6k6y84fsgx7q9fs/branch/main?svg=true)](https://ci.appveyor.com/project/Nikrusk/postman/branch/main)
